@@ -8,13 +8,9 @@ A comprehensive hotel booking chatbot that leverages OpenAI's API for natural la
 - [Technical Requirements](#technical-requirements)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Configuration](#configuration)
-- [Running the Application](#running-the-application)
+- [Backend Setup](#backend-setup)
 - [API Usage](#api-usage)
 - [Testing](#testing)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Bonus Features](#bonus-features)
-- [About](#about)
 
 ## Overview
 
